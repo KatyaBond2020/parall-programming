@@ -1,0 +1,15 @@
+C:\Users\Иннокентий\Desktop\CodingRep\ParaProg\ParaProg\bin\Debug\ParaProg.exe.config
+C:\Users\Иннокентий\Desktop\CodingRep\ParaProg\ParaProg\bin\Debug\ParaProg.exe
+C:\Users\Иннокентий\Desktop\CodingRep\ParaProg\ParaProg\bin\Debug\ParaProg.pdb
+C:\Users\Иннокентий\Desktop\CodingRep\ParaProg\ParaProg\obj\Debug\ParaProg.csprojAssemblyReference.cache
+C:\Users\Иннокентий\Desktop\CodingRep\ParaProg\ParaProg\obj\Debug\ParaProg.csproj.CoreCompileInputs.cache
+C:\Users\Иннокентий\Desktop\CodingRep\ParaProg\ParaProg\obj\Debug\ParaProg.exe
+C:\Users\Иннокентий\Desktop\CodingRep\ParaProg\ParaProg\obj\Debug\ParaProg.pdb
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\bin\Debug\ParaProg.exe.config
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\bin\Debug\ParaProg.exe
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\bin\Debug\ParaProg.pdb
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\obj\Debug\ParaProg.csproj.AssemblyReference.cache
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\obj\Debug\ParaProg.csproj.SuggestedBindingRedirects.cache
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\obj\Debug\ParaProg.csproj.CoreCompileInputs.cache
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\obj\Debug\ParaProg.exe
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\1А\ParaProg\ParaProg\obj\Debug\ParaProg.pdb
